@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/MyPrograms/AVL-tree/src/BSTree.cpp
+BSTree.h
+/cygdrive/c/MyPrograms/AVL-tree/src/BSTree.h
+iostream
+-
+vector
+-
+
+/cygdrive/c/MyPrograms/AVL-tree/src/BSTree.h
+types.h
+/cygdrive/c/MyPrograms/AVL-tree/src/types.h
+iostream
+-
+vector
+-
+
+/cygdrive/c/MyPrograms/AVL-tree/src/types.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/AVL_tree.dir/main.cpp.o CMakeFiles/AVL_tree.dir/src/BSTree.cpp.o -o AVL_tree.exe -Wl,--out-implib,libAVL_tree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
